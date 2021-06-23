@@ -195,7 +195,7 @@ column3 = dbc.Col([
             color="#262626"),
         
 
-            html.Img(src='assets/airbnb4.jpeg', className='img-fluid')
+            html.Img(src='assets/airbnb5.jpeg', className='img-fluid')
         ]
 )
 

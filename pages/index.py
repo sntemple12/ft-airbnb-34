@@ -33,7 +33,7 @@ column1 = dbc.Col(
 
 column2 = dbc.Col(
     [
-        html.Img(src='https://images.unsplash.com/photo-1621963262756-6836c6c86d27?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=728&q=80', style={'width': '100%'})
+       html.Img(src='assets/airbnb5.jpeg', className='img-fluid')
     ]
 )
 
